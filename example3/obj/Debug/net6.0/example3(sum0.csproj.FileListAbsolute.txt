@@ -1,0 +1,15 @@
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\bin\Debug\net6.0\example3(sum0.exe
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\bin\Debug\net6.0\example3(sum0.deps.json
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\bin\Debug\net6.0\example3(sum0.runtimeconfig.json
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\bin\Debug\net6.0\example3(sum0.dll
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\bin\Debug\net6.0\example3(sum0.pdb
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\example3(sum0.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\example3(sum0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\example3(sum0.AssemblyInfoInputs.cache
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\example3(sum0.AssemblyInfo.cs
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\example3(sum0.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\example3(sum0.dll
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\refint\example3(sum0.dll
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\example3(sum0.pdb
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\example3(sum0.genruntimeconfig.cache
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example3\obj\Debug\net6.0\ref\example3(sum0.dll
