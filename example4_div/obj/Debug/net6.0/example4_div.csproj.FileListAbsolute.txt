@@ -1,0 +1,15 @@
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\bin\Debug\net6.0\example4_div.exe
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\bin\Debug\net6.0\example4_div.deps.json
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\bin\Debug\net6.0\example4_div.runtimeconfig.json
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\bin\Debug\net6.0\example4_div.dll
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\bin\Debug\net6.0\example4_div.pdb
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\example4_div.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\example4_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\example4_div.AssemblyInfoInputs.cache
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\example4_div.AssemblyInfo.cs
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\example4_div.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\example4_div.dll
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\refint\example4_div.dll
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\example4_div.pdb
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\example4_div.genruntimeconfig.cache
+C:\Users\alish\Desktop\IT - GeekBrains\C# practice 1\example4_div\obj\Debug\net6.0\ref\example4_div.dll
