@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Type your name");
 String username = Console.ReadLine();
-Console.WriteLine("Hello, ");
+Console.Write("Hello, ");
 Console.WriteLine(username);
 
